@@ -1,0 +1,50 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 9,
+          "top" : 9,
+          "right" : 9,
+          "left" : 9
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "IE8圆角矩形 - 字号40像素 - 描边1像素 - 圆角半径4像素-1.png",
+      "scale" : "2x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 1,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 9,
+          "top" : 9,
+          "right" : 9,
+          "left" : 9
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "IE8圆角矩形 - 字号40像素 - 描边1像素 - 圆角半径4像素.png",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
